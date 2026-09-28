@@ -5,8 +5,9 @@
 .terraform.lock.hcl
 *.tfvars
 
+# Se comentan los json para que se puedan subir a GitHub, ya que contienen credenciales de GCP
 # Credenciales GCP
-*.json
+# *.json
 
 # OS Files
 .DS_Store
